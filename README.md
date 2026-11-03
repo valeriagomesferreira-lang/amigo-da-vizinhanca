@@ -8,8 +8,8 @@ A interface permite que os usuários visualizem os produtos disponíveis, pesqui
 
 2. Tecnologias utilizadas
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 * LocalStorage do navegador
 
@@ -67,6 +67,7 @@ Dessa forma, os produtos adicionados permanecem salvos durante a navegação ent
 As informações do carrinho são recuperadas e atualizadas por meio do JavaScript.
 
 8. Identidade visual
+
 A interface utiliza uma paleta de cores definida para o projeto:
 
 * Vermelho: #DE0606
@@ -77,6 +78,7 @@ A interface utiliza uma paleta de cores definida para o projeto:
 * Branco: #FFFFFF
 
 O CSS foi utilizado para padronizar os elementos visuais, organizar os produtos em cartões, estilizar botões, campos de pesquisa, categorias e demais componentes das páginas.
+
 Também foram aplicados ajustes de responsividade para melhorar a visualização em diferentes tamanhos de tela.
 
 9. Observações
